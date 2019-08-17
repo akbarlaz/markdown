@@ -33,7 +33,7 @@ _Both **examples**_
 
 ## Images
 
-![GitHub Logo](/images/logo.png)
+![Image example](https://duckduckgo.com/assets/onboarding/bathroomguy/4-alpinist-v2.svg)
 Format: ![Alt Text](url)
 
 ## Links
